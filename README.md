@@ -1,6 +1,6 @@
 ## Tic Tac Toe 
 # written in core Java
-@Written by Nasir Uddin'PhD
+@Written by Nasir Uddin
 https://se.linkedin.com/in/nasir-uddin-090a475
 This is  a simple two player (Console/command line)  Tic Tac Toe game written for a java / object oriented course in Stockholm.
 In this version:
