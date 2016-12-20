@@ -1,5 +1,5 @@
-# @Tic Tac Toe Game written in Java
-@Written by Nasir Uddin
+# Tic Tac Toe Game written in Java
+@Written by Nasir Uddin'PhD
 https://se.linkedin.com/in/nasir-uddin-090a475
 This is  a two player Tic Tac Toe game written for a java / object oriented course in Stockholm.
 In this version:
