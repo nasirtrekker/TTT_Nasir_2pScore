@@ -1,4 +1,5 @@
-# Tic Tac Toe Game written in Java
+# Tic Tac Toe (Console/command line) 
+Game written in core Java
 @Written by Nasir Uddin'PhD
 https://se.linkedin.com/in/nasir-uddin-090a475
 This is  a two player Tic Tac Toe game written for a java / object oriented course in Stockholm.
